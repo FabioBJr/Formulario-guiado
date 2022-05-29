@@ -2,7 +2,10 @@
 
 ## Resultado
 
-<img src="Formulário (guiado)/FinalResult.jpg" alt="Versão Web" >
+<img src="Imgs/FinalResult.jpg" alt="Versão Web">
+
+
+## Descrição
 
 Esse final de semana mergulhei nos estudos de HTML e CSS e consegui construir meu primeiro projeto com HTML e CSS.
 Ambas linguagens são de extrema importância (de marcação e
